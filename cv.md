@@ -35,3 +35,13 @@ Eurasian National University named after L.N.Gumilev | 2012-2014 | GPA 3,86/4.0
 
 *Bachelor of Engineering and Technology*  
 Eurasian National University named after L.N.Gumilev | 2008-2012 | GPA 3,79/4.0  
+
+**Professional Skills**
+
+Kibana, Camtasia, Arta Synergy, Agile, Kanban  
+
+**Languages**
+
+*Kazakh* – Native  
+*Russian* – Fluent  
+*English* – Upper-Intermediate
